@@ -1,9 +1,6 @@
 # Hotel-Management-System
 A simple Hotel Management System built with PHP and Ajax. This project aims to streamline hotel operations by providing an intuitive interface for managing bookings, rooms, and guest details.
 
-
-# Hotel Booking Management System Source Code
-
 ## Instructions
 
 ### 1. Download and Install XAMPP
@@ -16,7 +13,7 @@ Select a text editor, such as Notepad++ or Sublime Text 3.
 
 ### 3. Download the Project
 
-Download the zip file or use WinRAR to download the project.
+Clone or download the repository and set up the project on your local server.
 
 ### 4. Extract and Copy Project Folder
 
@@ -34,18 +31,17 @@ Open PHPMyAdmin by visiting [http://localhost/phpmyadmin](http://localhost/phpmy
 
 Create a database named `hotel_db` by going to [http://localhost/Hotel_Booking_Management_System/admin/db_create.php](http://localhost/Hotel_Booking_Management_System/admin/db_create.php).
 
-### 8. Import SQL File
 
-Import the `hotel_db.sql` file found inside the zip package in the SQL file folder.
+### 8. Run the Project
 
-### 9. Run the Script
-
-Run the script by visiting [http://localhost/Hotel_Booking_Management_System](http://localhost/Hotel_Booking_Management_System).
+Run the Project by visiting [http://localhost/Hotel_Booking_Management_System](http://localhost/Hotel_Booking_Management_System).
 
 ## Login Details
 
 Create your own user.
 
 **Admin:**
+For admin login go to [http://localhost/Hotel_Booking_Management_System/admin](http://localhost/Hotel_Booking_Management_System/admin).
+
 - Username: admin
 - Password: admin123
